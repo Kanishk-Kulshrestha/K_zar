@@ -1,1 +1,1 @@
-Text editor in C
+CLI text editor in C
