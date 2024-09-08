@@ -1,2 +1,2 @@
-quanta2: quanta2.c
-	$(CC) quanta2.c -o quanta2 -Wall -Wextra -pedantic -Wimplicit-function-declaration -std=c99
+quanta: quanta.c
+	$(CC) quanta.c -o quanta -Wall -Wextra -pedantic -Wimplicit-function-declaration -std=c99
